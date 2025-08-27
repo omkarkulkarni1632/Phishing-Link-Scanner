@@ -1,0 +1,42 @@
+[2025-06-24 16:26:50] htttps://www.google.com - Invalid Link: URL format is incorrect.
+[2025-06-24 16:27:02] www.google.com - Invalid Link: URL format is incorrect.
+[2025-06-24 16:27:02] www.google.com - Invalid Link: URL format is incorrect.
+[2025-06-24 16:27:02] www.google.com - Invalid Link: URL format is incorrect.
+[2025-06-24 16:27:20] https://chatgpt.com/c/685a83fb-e8b4-8010-9e79-0f073523b7b5 - Safe-looking URL: No immediate phishing indicators found.
+[2025-06-24 16:29:53] https://chatgpt.com/c/685a83fb-e8b4-8010-9e79-0f073523b7b5 - Safe-looking URL: No immediate phishing indicators found.
+[2025-06-24 16:30:41] https://www.ukfcet.ac.in/read-news.php?id=%3Cimg%20src=x%20onerror=alert(1)%3E - Safe-looking URL: No immediate phishing indicators found.
+[2025-06-24 16:30:42] https://www.ukfcet.ac.in/read-news.php?id=%3Cimg%20src=x%20onerror=alert(1)%3E - Safe-looking URL: No immediate phishing indicators found.
+[2025-06-24 16:30:45] https://www.ukfcet.ac.in/read-news.php?id=%3Cimg%20src=x%20onerror=alert(1)%3E - Safe-looking URL: No immediate phishing indicators found.
+[2025-06-24 16:30:45] https://www.ukfcet.ac.in/read-news.php?id=%3Cimg%20src=x%20onerror=alert(1)%3E - Safe-looking URL: No immediate phishing indicators found.
+[2025-06-24 16:30:50] https://www.ukfcet.ac.in/read-news.php?id=%3Cimg%20src=x%20onerror=alert(1)%3E - Safe-looking URL: No immediate phishing indicators found.
+[2025-06-24 16:31:22] https://www.youtube.com/ - Safe-looking URL: No immediate phishing indicators found.
+[2025-06-24 16:33:26] http://www.youtube.login.com/ - Invalid Link: Could not fetch the page.
+[2025-06-24 16:33:35] https://www.youtube.login.com/ - Invalid Link: Could not fetch the page.
+[2025-06-24 16:33:36] https://www.youtube.login.com/ - Invalid Link: Could not fetch the page.
+[2025-06-24 16:33:36] https://www.youtube.login.com/ - Invalid Link: Could not fetch the page.
+[2025-06-24 16:33:46] http://www.youtube.com/ - Looks Suspicious: URL does not use HTTPS.
+[2025-06-24 17:49:50] http://www.pinterest.com - Looks Suspicious: URL does not use HTTPS.
+[2025-06-24 17:50:25] https://www.youtube.com - Safe-looking URL: No immediate phishing indicators found.
+[2025-06-24 17:50:25] https://www.youtube.com - Safe-looking URL: No immediate phishing indicators found.
+[2025-06-24 18:01:36] http://www.bennett.edu.in - Looks Suspicious: URL does not use HTTPS.
+[2025-06-24 18:01:36] http://www.bennett.edu.in - WHOIS: WHOIS: Domain created 2016-07-22 (3259 days ago)
+[2025-06-24 18:02:09] http://www.youtube.com - Looks Suspicious: URL does not use HTTPS.
+[2025-06-24 18:02:09] http://www.youtube.com - WHOIS: WHOIS: Domain created 2005-02-15 (7434 days ago)
+[2025-06-24 18:02:55] https://www.predictive-pest-guard.vercel.app - Safe-looking URL: No immediate phishing indicators found.
+[2025-06-24 18:02:55] https://www.predictive-pest-guard.vercel.app - WHOIS: WHOIS: Creation date not found.
+[2025-06-24 18:06:41] http://www.bennett.edu.in - Looks Suspicious: URL does not use HTTPS.
+[2025-06-24 18:06:41] http://www.bennett.edu.in - WHOIS: WHOIS: Domain created 2016-07-22 (3259 days ago)
+[2025-06-24 18:09:22] http://bennett.edu.in - Looks Suspicious: URL does not use HTTPS.
+[2025-06-24 18:09:22] http://bennett.edu.in - WHOIS: WHOIS: Domain created 2016-07-22 (3259 days ago)
+[2025-06-24 18:10:54] http://www.youtube.com - Looks Suspicious: URL does not use HTTPS.
+[2025-06-24 18:10:54] http://www.youtube.com - WHOIS: WHOIS: Domain created 2005-02-15 (7434 days ago)
+[2025-06-24 18:10:59] http://www.youtube.com - Looks Suspicious: URL does not use HTTPS.
+[2025-06-24 18:10:59] http://www.youtube.com - WHOIS: WHOIS: Domain created 2005-02-15 (7434 days ago)
+[2025-06-24 18:11:05] https://www.youtube.com - Safe-looking URL: No immediate phishing indicators found.
+[2025-06-24 18:11:05] https://www.youtube.com - WHOIS: WHOIS: Domain created 2005-02-15 (7434 days ago)
+[2025-06-24 18:12:27] http://www.tips.edu.in - Looks Suspicious: URL does not use HTTPS.
+[2025-06-24 18:12:27] http://www.tips.edu.in - WHOIS: WHOIS: Domain created 2010-05-24 (5510 days ago)
+[2025-08-27 20:55:25] www.youtube.com - Invalid Link: URL format is incorrect.
+[2025-08-27 20:55:57] https://academia.srmist.edu.in/ - Safe-looking URL: No immediate phishing indicators found.
+[2025-08-27 20:55:57] https://academia.srmist.edu.in/ - WHOIS: WHOIS lookup failed: module 'whois' has no attribute 'whois'
+[2025-08-27 20:56:18] https://academia.srmist.edu.in/?/ - Invalid Link: URL format is incorrect.
